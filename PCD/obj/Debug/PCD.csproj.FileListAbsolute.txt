@@ -1,0 +1,28 @@
+F:\Program\Visual Studio C#\PCD\PCD\bin\Debug\PCD.exe.config
+F:\Program\Visual Studio C#\PCD\PCD\bin\Debug\PCD.exe
+F:\Program\Visual Studio C#\PCD\PCD\bin\Debug\PCD.pdb
+F:\Program\Visual Studio C#\PCD\PCD\obj\Debug\PCD.csprojResolveAssemblyReference.cache
+F:\Program\Visual Studio C#\PCD\PCD\obj\Debug\PCD.Form1.resources
+F:\Program\Visual Studio C#\PCD\PCD\obj\Debug\PCD.Properties.Resources.resources
+F:\Program\Visual Studio C#\PCD\PCD\obj\Debug\PCD.csproj.GenerateResource.Cache
+F:\Program\Visual Studio C#\PCD\PCD\obj\Debug\PCD.exe
+F:\Program\Visual Studio C#\PCD\PCD\obj\Debug\PCD.pdb
+D:\FATHIR\PCD\PCD\bin\Debug\PCD.exe.config
+D:\FATHIR\PCD\PCD\obj\Debug\PCD.exe
+D:\FATHIR\PCD\PCD\obj\Debug\PCD.pdb
+D:\FATHIR\PCD\PCD\bin\Debug\PCD.exe
+D:\FATHIR\PCD\PCD\bin\Debug\PCD.pdb
+D:\FATHIR\PCD\PCD\obj\Debug\PCD.csprojResolveAssemblyReference.cache
+D:\FATHIR\PCD\PCD\obj\Debug\PCD.Form1.resources
+D:\FATHIR\PCD\PCD\obj\Debug\PCD.Properties.Resources.resources
+D:\FATHIR\PCD\PCD\obj\Debug\PCD.csproj.GenerateResource.Cache
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\bin\Debug\PCD.exe.config
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Debug\PCD.exe
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Debug\PCD.pdb
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Debug\PCD.csprojResolveAssemblyReference.cache
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Debug\PCD.Form1.resources
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Debug\PCD.Properties.Resources.resources
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Debug\PCD.csproj.GenerateResource.Cache
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\bin\Debug\PCD.exe
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\bin\Debug\PCD.pdb
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Debug\PCD.FastFourierTransform.resources

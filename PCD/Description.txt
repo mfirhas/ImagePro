@@ -1,0 +1,22 @@
+﻿Pengolahan Citra Digital V2.0
+
+Deskripsi: 
+	- Untuk memenuhi tugas besar mata kuliah Pengolahan Citra Digital
+	- Aplikasi untuk melakukan pengolahan citra 
+
+Feature:
+	- Sampling
+	- Quantization
+	- Grayscale
+	- Invert
+	- RGB Filtering
+	- Stretch Image
+	- Zoom in/out
+	- Rotate
+	- Flip 
+	- Crop 
+	- Warp
+	- Histogram 
+	- Konvolusi
+	- Smoothing
+	- Sharpening

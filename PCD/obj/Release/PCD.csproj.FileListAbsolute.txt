@@ -1,0 +1,6 @@
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\bin\Release\PCD.exe.config
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.csprojResolveAssemblyReference.cache
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.Form1.resources
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.FastFourierTransform.resources
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.Properties.Resources.resources
+F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.csproj.GenerateResource.Cache
