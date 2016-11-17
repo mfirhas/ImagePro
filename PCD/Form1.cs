@@ -58,7 +58,8 @@ namespace PCD
 
         private void fastFourierTransformationToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            FastFourierTransform fft = new FastFourierTransform(new Bitmap(original.Image));
+            fft.Show();
         }
 
         #region Load Image
