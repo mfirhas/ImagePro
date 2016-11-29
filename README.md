@@ -23,3 +23,7 @@ Mini Image Processing - simple Windows Form Program to implement some image proc
 - Region Growing
 - Dilation, Erosion, Open and Close.
 
+# How To Run
+- Clone it and open in Visual Studio.
+- Make New project and add from existing project.
+
