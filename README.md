@@ -1,5 +1,6 @@
 # ImagePro 
 ImagePro v2.0 - MINI IMAGE PROCESSING
+by Muhammad Fathir Irhas, Bandung, 3/6/2015.
 
 # Desciption
 Mini Image Processing - simple Windows Form Program to implement some image processing functionalities.
