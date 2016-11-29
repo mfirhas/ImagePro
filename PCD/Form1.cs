@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Author   : Muhammad Fathir Irhas
+ * Date     : 3 - 6 - 2016
+ * Project  : ImagePro
+ * 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
