@@ -1,0 +1,10 @@
+F:\Code\C#\Image-Pro\PCD\bin\Debug\WindowsApplication.exe.config
+F:\Code\C#\Image-Pro\PCD\obj\x86\Debug\ImagePro.csprojResolveAssemblyReference.cache
+F:\Code\C#\Image-Pro\PCD\obj\x86\Debug\PCD.FastFourierTransform.resources
+F:\Code\C#\Image-Pro\PCD\obj\x86\Debug\PCD.Form1.resources
+F:\Code\C#\Image-Pro\PCD\obj\x86\Debug\ImagePro.Properties.Resources.resources
+F:\Code\C#\Image-Pro\PCD\obj\x86\Debug\ImagePro.csproj.GenerateResource.Cache
+F:\Code\C#\Image-Pro\PCD\bin\Debug\WindowsApplication.exe
+F:\Code\C#\Image-Pro\PCD\bin\Debug\WindowsApplication.pdb
+F:\Code\C#\Image-Pro\PCD\obj\x86\Debug\WindowsApplication.exe
+F:\Code\C#\Image-Pro\PCD\obj\x86\Debug\WindowsApplication.pdb

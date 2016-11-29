@@ -4,3 +4,4 @@ F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.For
 F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.FastFourierTransform.resources
 F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.Properties.Resources.resources
 F:\College\Semester 6\Pengolahan Citra Digital\TUBES\PCD\PCD\obj\Release\PCD.csproj.GenerateResource.Cache
+F:\Code\C#\Image-Pro\PCD\bin\Release\PCD.exe.config
